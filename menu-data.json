@@ -240,19 +240,19 @@
       {
         "number": 36,
         "name": "Kyckling med bröd",
-        "image": "poster-kebab-0",
+        "image": "36",
         "description": "Kyckling, lök och feferoni. Läsk ingår."
       },
       {
         "number": 37,
         "name": "Kebab med bröd",
-        "image": "poster-kebab-1",
+        "image": "37",
         "description": "Kebabkött, lök och feferoni. Läsk ingår."
       },
       {
         "number": 38,
         "name": "Falafel med bröd",
-        "image": "poster-kebab-2",
+        "image": "38",
         "description": "Falafel, lök och feferoni. Läsk ingår."
       }
     ]
@@ -276,7 +276,7 @@
       {
         "number": 41,
         "name": "Fransk sallad",
-        "image": "poster-sallad",
+        "image": "41",
         "description": "Rödbetssallad med grönsaker."
       },
       {
