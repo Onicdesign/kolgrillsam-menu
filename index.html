@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#111111" />
+  <meta name="description" content="Kolgrill Sams meny – upptäck våra rätter och se priserna direkt på bilderna." />
+  <title>Meny med priser | Kolgrill Sam</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <script src="script.js" defer></script>
+</head>
+<body id="top">
+  <a class="skip-link" href="#meny">Hoppa till menyn</a>
+  <header class="floating-nav" aria-label="Huvudnavigation">
+    <a class="nav-logo" href="https://kolgrillsam.se/" aria-label="Kolgrill Sam, startsida"><span class="logo-flame">♨</span><span>KOLGRILL<br><strong>SAM</strong></span></a>
+    <nav class="nav-links" aria-label="Sidor"><a class="current" href="#meny">MENY</a><a href="https://kolgrillsam.se/om-oss/">OM OSS</a><a href="https://kolgrillsam.se/lunch-meny/">LUNCH</a></nav>
+    <button class="nav-share" id="share-top" type="button">Dela menyn <span aria-hidden="true">↗</span></button>
+  </header>
+  <main>
+    <section class="hero" aria-labelledby="hero-title">
+      <video class="hero-video" autoplay muted loop playsinline aria-hidden="true"><source src="https://kolgrillsam.se/wp-content/uploads/2024/05/samgrill_finsih_720_mini.mp4" type="video/mp4" /></video>
+      <div class="hero-shade"></div>
+      <div class="hero-content"><div class="hero-rule"></div><p class="hero-overline">KOLGRILL SAM · SOLLENTUNA</p><h1 id="hero-title">Vår Meny</h1><p class="hero-subtitle">Upptäck våra rätter och hitta din favorit.</p><a class="scroll-link" href="#meny">Scrolla för att se menyn <span aria-hidden="true">↓</span></a></div>
+      <span class="hero-side-note" aria-hidden="true">SMAKER FRÅN SAMARKAND</span>
+    </section>
+
+    <section class="menu" id="meny" aria-labelledby="menu-title">
+      <div class="container menu-heading"><span class="fine-line"></span><p>MENY MED PRISER</p><h2 id="menu-title">Utforska vår meny</h2><p class="menu-lead">Från kolgrillade favoriter till klassiska rätter och sallader. Skrolla vidare och se priset direkt på varje bild.</p></div>
+      <div class="category-wrap"><nav class="container category-scroll" id="category-nav" aria-label="Menysektioner"></nav></div>
+      <div class="container" id="menu-content"></div>
+    </section>
+
+    <section class="bottom-panel"><div class="container bottom-inner"><div><span class="fine-line"></span><p>KOLGRILL SAM</p><h2>Vi ses vid bordet.</h2><span>Bygatan 42B, 191 46 Sollentuna</span></div><div class="bottom-actions"><button class="bottom-share" id="share-bottom" type="button">Dela menyn <span aria-hidden="true">↗</span></button><a href="https://kolgrillsam.se/" class="home-link">Till hemsidan <span aria-hidden="true">→</span></a></div></div></section>
+  </main>
+  <footer><div class="container footer-inner"><span>© Kolgrill Sam</span><a href="#top">Till toppen ↑</a></div></footer>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
