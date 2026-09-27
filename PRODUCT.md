@@ -15,10 +15,10 @@ Visa restaurangens meny med priser i en snygg och lättanvänd sida som går att
 - Menyn visas vid skrollning, med länkar för att hoppa mellan kategorier.
 - Priserna visas i de bifogade rättbilderna, utan separat pristext.
 - Ingen beställningsfunktion ingår i den här sidan.
-- Publik webbadress kräver publicering på en webbhost.
+- Sidan publiceras som en separat Breakdance-sida på WordPress och som statisk kopia på GitHub Pages.
 
 ## Brand Commitments
 Namnet Kolgrill Sam och uttrycket på den befintliga webbplatsen `https://kolgrillsam.se/` är referens för den nya menysidan.
 
 ## Evidence on Hand
-Menybilder i `/Users/onic/Downloads/New Burger` och frilagda rättbilder i `/Users/onic/Downloads/kolgrill`.
+Menybilder och menyöversikten med rättbeskrivningar i `/Users/onic/Downloads/kolgrill`. Salladernas ingrediensbeskrivningar är korta redaktionella sammanfattningar eftersom översikten bara anger deras namn.

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "grill",
+    "title": "Kolgrillade rätter",
+    "items": [
+      {
+        "number": 1,
+        "name": "Shish kebab",
+        "image": "13",
+        "description": "Shish kebab med nötfärs och hackad lök. Serveras med ris, pommes eller bulgur, samt yoghurt och tomatsås."
+      },
+      {
+        "number": 2,
+        "name": "Shish kebab & kycklingfilé",
+        "image": "11",
+        "description": "Shish kebab och kycklingfilé. Serveras med ris, pommes eller bulgur, samt yoghurt och tomatsås."
+      },
+      {
+        "number": 3,
+        "name": "Shish kebab & rulle",
+        "image": "8",
+        "description": "Shish kebab och rulle med nötfärs och hackad lök. Serveras med ris, pommes eller bulgur, samt yoghurt och tomatsås."
+      },
+      {
+        "number": 4,
+        "name": "Shish kebab & lammspett",
+        "image": "12",
+        "description": "Shish kebab och lammspett med nötfärs och hackad lök. Serveras med ris, pommes eller bulgur, samt yoghurt och tomatsås."
+      },
+      {
+        "number": 5,
+        "name": "Lammspett",
+        "image": "10",
+        "description": "Lammspett och hackad lök. Serveras med ris, pommes eller bulgur, samt yoghurt och tomatsås."
+      },
+      {
+        "number": 6,
+        "name": "Lammspett & kycklingfilé",
+        "image": "9",
+        "description": "Lammspett och marinerad kycklingfilé. Serveras med ris, pommes eller bulgur, samt hackad lök, yoghurt och tomatsås."
+      },
+      {
+        "number": 7,
+        "name": "Lammspett & lammracks",
+        "image": "18",
+        "description": "Lammspett och lammracks. Serveras med ris, pommes eller bulgur, samt hackad lök, yoghurt och tomatsås."
+      },
+      {
+        "number": 8,
+        "name": "Kycklingfilé",
+        "image": "17",
+        "description": "Kycklingfilé. Serveras med ris, pommes eller bulgur, samt hackad lök, yoghurt och tomatsås."
+      },
+      {
+        "number": 9,
+        "name": "Kycklingvingar",
+        "image": "15",
+        "description": "Kycklingvingar. Serveras med ris, pommes eller bulgur, samt hackad lök, yoghurt och tomatsås."
+      },
+      {
+        "number": 10,
+        "name": "Laxspett",
+        "image": "19",
+        "description": "Marinerad laxfilé. Serveras med ris, pommes eller bulgur, samt hackad lök, yoghurt och tomatsås."
+      },
+      {
+        "number": 11,
+        "name": "Oxfilé",
+        "image": "16",
+        "description": "Oxfilé med fett. Serveras med ris, pommes eller bulgur, samt hackad lök, yoghurt och tomatsås."
+      },
+      {
+        "number": 12,
+        "name": "Rulle",
+        "image": "14",
+        "description": "Hackad entrecôte med fett. Serveras med ris, pommes eller bulgur, samt hackad lök, yoghurt och tomatsås."
+      },
+      {
+        "number": 13,
+        "name": "Lammkotlett",
+        "image": "24",
+        "description": "Lammkotlett med kryddor. Serveras med ris, pommes eller bulgur, samt hackad lök, yoghurt och tomatsås."
+      },
+      {
+        "number": 14,
+        "name": "Lammracks",
+        "image": "22",
+        "description": "Lammracks. Serveras med ris, pommes eller bulgur, samt hackad lök, yoghurt och tomatsås."
+      },
+      {
+        "number": 15,
+        "name": "Shish kebab, lammspett & kycklingfilé",
+        "image": "21",
+        "description": "Shish kebab, lammspett och kycklingfilé. Serveras med ris, pommes eller bulgur, samt hackad lök, yoghurt och tomatsås."
+      },
+      {
+        "number": 16,
+        "name": "Shish kebab, lammspett & rulle",
+        "image": "25",
+        "description": "Shish kebab, lammspett och rulle. Serveras med ris, pommes eller bulgur, samt hackad lök, yoghurt och tomatsås."
+      },
+      {
+        "number": 17,
+        "name": "Laxspett, vegetariskt & champinjoner",
+        "image": "23",
+        "description": "Marinerad laxfilé med tomat, citron, zucchini och champinjoner. Serveras med ris, pommes eller bulgur, samt hackad lök, yoghurt och tomatsås."
+      },
+      {
+        "number": 18,
+        "name": "Lammkotlett, rulle, lammracks & shish kebab",
+        "image": "20",
+        "description": "Lammkotlett, lammracks, shish kebab och rulle av hackad entrecôte med fett. Serveras med ris, pommes eller bulgur, samt hackad lök, yoghurt och tomatsås."
+      }
+    ]
+  },
+  {
+    "id": "special",
+    "title": "Kolgrill Sams special",
+    "items": [
+      {
+        "number": 19,
+        "name": "Tandur samsa",
+        "image": "5",
+        "description": "Deg fylld med nötkött och hackad lök, toppad med sesamfrön och smör. Serveras med stark tomatsås och valfri sås."
+      },
+      {
+        "number": 20,
+        "name": "Manti",
+        "image": "3",
+        "description": "Deg fylld med nötkött, hackad lök och kryddor. Serveras med yoghurt och valfri dressing."
+      },
+      {
+        "number": 21,
+        "name": "Halisa (halim)",
+        "image": "2",
+        "description": "En krämig blandning av vete, nötkött, lök, smör och kryddor."
+      },
+      {
+        "number": 22,
+        "name": "Tabaka (hel kyckling)",
+        "image": "4",
+        "description": "Marinerad hel kyckling med pommes frites och tomatsås. Serveras med gurka och stark tomatsås."
+      },
+      {
+        "number": 23,
+        "name": "Osh",
+        "image": "1",
+        "description": "En smakrik blandning av ris, möra bitar av nötkött, morötter, lök och kryddor."
+      },
+      {
+        "number": 24,
+        "name": "Jiz",
+        "image": "jiz",
+        "description": "Lamm med färska grönsaker, kryddor och matfett. Serveras med pommes, tomat, lök, sallad, yoghurt och stark tomatsås."
+      }
+    ]
+  },
+  {
+    "id": "lagman",
+    "title": "Lagman",
+    "items": [
+      {
+        "number": 25,
+        "name": "Stekt lagman",
+        "image": "7",
+        "description": "Nudlar med nötkött, paprika, tomat, lök, vitlök och ägg."
+      },
+      {
+        "number": 26,
+        "name": "Lagman",
+        "image": "6",
+        "description": "Nudlar med nötkött, paprika, tomat, lök och vitlök."
+      }
+    ]
+  },
+  {
+    "id": "soppor",
+    "title": "Soppfavoriter",
+    "items": [
+      {
+        "number": 27,
+        "name": "Chuchvara",
+        "image": "chuchvara",
+        "description": "Deg fylld med nötkött, lök och kryddor, serverad i tomatsås."
+      },
+      {
+        "number": 28,
+        "name": "Borsh",
+        "image": "borsh",
+        "description": "Rödbetor, kål, nötkött, morötter, potatis och lök. Serveras med gräddfil och färska örter."
+      },
+      {
+        "number": 29,
+        "name": "Shorva",
+        "image": "shorva",
+        "description": "Nötkött, morötter, potatis, lök, tomat och kryddor."
+      }
+    ]
+  },
+  {
+    "id": "kebab",
+    "title": "Kebabrätter",
+    "items": [
+      {
+        "number": 30,
+        "name": "Kycklingrulle",
+        "image": "30",
+        "description": "Kyckling, lök, peperoni och mild kebabsås."
+      },
+      {
+        "number": 31,
+        "name": "Kebabrulle",
+        "image": "28",
+        "description": "Kebabkött, lök, peperoni och mild kebabsås."
+      },
+      {
+        "number": 32,
+        "name": "Falafelrulle",
+        "image": "26",
+        "description": "Falafel, lök, peperoni och mild kebabsås. Läsk ingår."
+      },
+      {
+        "number": 33,
+        "name": "Kycklingtallrik",
+        "image": "31",
+        "description": "Kyckling, lök och peperoni. Serveras med ris eller pommes."
+      },
+      {
+        "number": 34,
+        "name": "Kebabtallrik",
+        "image": "29",
+        "description": "Kebabkött, lök och peperoni. Serveras med ris eller pommes."
+      },
+      {
+        "number": 35,
+        "name": "Falafeltallrik",
+        "image": "27",
+        "description": "Falafel, lök och peperoni. Serveras med ris eller pommes."
+      },
+      {
+        "number": 36,
+        "name": "Kyckling med bröd",
+        "image": "poster-kebab-0",
+        "description": "Kyckling, lök och feferoni. Läsk ingår."
+      },
+      {
+        "number": 37,
+        "name": "Kebab med bröd",
+        "image": "poster-kebab-1",
+        "description": "Kebabkött, lök och feferoni. Läsk ingår."
+      },
+      {
+        "number": 38,
+        "name": "Falafel med bröd",
+        "image": "poster-kebab-2",
+        "description": "Falafel, lök och feferoni. Läsk ingår."
+      }
+    ]
+  },
+  {
+    "id": "sallader",
+    "title": "Sallader",
+    "items": [
+      {
+        "number": 39,
+        "name": "Kycklingsallad",
+        "image": "33",
+        "description": "Kyckling med sallad och grönsaker."
+      },
+      {
+        "number": 40,
+        "name": "Smaksallad",
+        "image": "smaksallad",
+        "description": "Blandad sallad med grönsaker i krämig dressing."
+      },
+      {
+        "number": 41,
+        "name": "Fransk sallad",
+        "image": "poster-sallad",
+        "description": "Rödbetssallad med grönsaker."
+      },
+      {
+        "number": 42,
+        "name": "Grekisk sallad",
+        "image": "34",
+        "description": "Grekisk sallad med fetaost, tomat, gurka, oliver och rödlök."
+      },
+      {
+        "number": 43,
+        "name": "Tashkent sallad",
+        "image": "tashkent",
+        "description": "Tashkentsallad med kött och grönsaker."
+      },
+      {
+        "number": 44,
+        "name": "Kebabsallad",
+        "image": "32",
+        "description": "Kebabkött med sallad, tomat, gurka, rödlök och dressing."
+      }
+    ]
+  }
+]
